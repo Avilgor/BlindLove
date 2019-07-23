@@ -7,4 +7,4 @@ The game might not work porperly because it's not updated to the last Unity vers
 # Contributors
 - https://github.com/Avilgor
 - https://github.com/PapaSocrates
--
+- https://github.com/viicmoor
